@@ -1,0 +1,17 @@
+{
+    "name": "WidgetLedDisplay",
+    "version": "1.0.0",
+    "keywords": "Widget,LedDisplay",
+    "description": "LED显示屏应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetLedDisplay.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
